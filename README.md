@@ -12,3 +12,7 @@ Repository for some Map-Reduce code I have written to be run on Apache Hadoop.
 "employee.csv" contains: Name, Employee_id, JobTitle, Salary
 
 ______________________________________________________________________________________________________
+2_LineCount
+
+*Description: The code is used to count the number of lines in a given file.
+______________________________________________________________________________________________________
