@@ -47,3 +47,6 @@ ________________________________________________________________________________
  eg. If there are five 4-lettered words, the output will be 5:4
 
 _________________________________________________________________________________________________________
+6_Script
+
+* Description: Checks for any new file in .json format, copies (if any) it to the HDFS by adding universal timestamp to the filename. Invokes Pig script to run on that file and gain necessary output.
